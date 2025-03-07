@@ -1,4 +1,9 @@
 featured:
+- name: 'R1-Zero’s “Aha Moment” in Visual Reasoning on a 2B Non-SFT Model' 
+  project page: 'https://github.com/turningpoint-ai/VisualThinker-R1-Zero'
+  blog: 'https://turningpointai.notion.site/the-multimodal-aha-moment-on-2b-model'
+  authors: <strong>Hengguang Zhou*</strong>, Xirui Li*, Ruochen Wang, Minhao Cheng, Tianyi Zhou, Cho-Jui Hsieh
+  notes: We are the first to replicate the r1-like "aha moment" on multimodal task with only a 2b model! Presented by TurningPointAI
 - name: 'MOSSBench: Is Your Multimodal Large Language Model Oversensitive to Safe Queries?' 
   page: 'https://turningpoint-ai.github.io/MOSSBench/'
   pdf: 'https://arxiv.org/pdf/2406.17806'
@@ -6,7 +11,7 @@ featured:
   authors: Xirui Li*, <strong>Hengguang Zhou*</strong>, Ruochen Wang, Tianyi Zhou, Minhao Cheng, Cho-Jui Hsieh
   conference_short: ICLR,
   conference: <strong>ICLR</strong>, 2025.
-  notes: TurningPointAI presents present, Accepted by ICLR 2025
+  notes: TurningPointAI, Accepted by ICLR 2025
 
 
 index:
@@ -16,8 +21,8 @@ index:
   code: 'https://github.com/xirui-li/MOSSBench'
   authors: Xirui Li*, <strong>Hengguang Zhou*</strong>, Ruochen Wang, Tianyi Zhou, Minhao Cheng, Cho-Jui Hsieh
   conference_short: ICLR,
-  conference: <strong>ICLR</strong>, 2024.
-  notes: TurningPointAI presents present, Under Review
+  conference: <strong>ICLR2025 </strong>
+  notes: TurningPointAI, Accepted by ICLR 2025
 - name: 'DeepCCFV: Camera Constraint-Free Multi-View Convolutional Neural Network for 3D Object Retrieval'
   pdf: 'https://ojs.aaai.org/index.php/AAAI/article/view/4868'
   authors: Zhengyue Huang, Zhehui Zhao, Hengguang Zhou, Xibin Zhao, Yue Gao
