@@ -3,6 +3,7 @@
     {% if page.title == "Home" %}
       <h3 class="fw-bold border-bottom pb-3 mb-5">Publications(First Author)</h3>
       {% for item in site.data.publications.featured %}
+       <div class="publication mb-4">
         <p><a href="{{ item.url }}">{{ item.name }}</a></p>
           <div class="author">{{ item.authors }}</div>
           <div class="periodical"><em>{{ item.conference }}</em>
@@ -29,6 +30,7 @@
           {{ item.others }}
           {% endif %}
         </div>
+      </div>
       {% endfor %}
     {% else %}
       <h3 class="fw-bold border-bottom pb-3 mb-5">Publications</h3>
