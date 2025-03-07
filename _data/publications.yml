@@ -1,6 +1,6 @@
 featured:
 - name: 'R1-Zero’s “Aha Moment” in Visual Reasoning on a 2B Non-SFT Model' 
-  project page: 'https://github.com/turningpoint-ai/VisualThinker-R1-Zero'
+  page: 'https://github.com/turningpoint-ai/VisualThinker-R1-Zero'
   blog: 'https://turningpointai.notion.site/the-multimodal-aha-moment-on-2b-model'
   authors: <strong>Hengguang Zhou*</strong>, Xirui Li*, Ruochen Wang, Minhao Cheng, Tianyi Zhou, Cho-Jui Hsieh
   notes: We are the first to replicate the r1-like "aha moment" on multimodal task with only a 2b model! Presented by TurningPointAI
